@@ -9,7 +9,7 @@ The notebooks are **workspaces** where data exploration, preprocessing, visualiz
 - **pullups_dips.ipynb**  
   Contains the analysis pipeline for pull-ups and dips using accelerometer data.
 
-- **pushups_bicepsCurls.ipynb**  
+- **pushups.ipynb**  
   Contains the analysis pipeline for push-ups and biceps curls using accelerometer data.
 
 ## Purpose
