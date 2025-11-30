@@ -1,4 +1,4 @@
-# HAH913E-2024-AccelCalisthenics
+# HAH913E-2025-AccelCalisthenics
 Final Project - HAH913E Physical activity for health
 
 # Calisthenics Activity Analysis with Accelerometer Data
@@ -20,35 +20,30 @@ The work demonstrates the complete physical activity analysis pipeline:
 
 HAH913E-2025-AccelCalisthenics/
 
-│-- README.md # Project overview (this file)
+- README.md # Project overview (this file)
 
-│-- main.ipynb # Main demo notebook (entry point)
+- main.ipynb # Main demo notebook (entry point)
 
-│
 
-│-- notebooks/ # Development notebooks
+notebooks/ # Development notebooks
 
-│ ├── README.md
+- README.md
+- pullups_dips.ipynb
+- pushups.ipynb
 
-│ ├── pullups_dips.ipynb
+data/ # data csv files used by the demo
 
-│ └── pushups.ipynb
-│
+- readme.md
+- *.csv
 
-│-- data/ # data csv files used by the demo
+results/ # Outputs of the analysis
 
-│ ├── readme.md
-│ └── *.csv
-│
+- Readme.md
+- Results1.pdf 
+- Results2.pdf 
 
-│-- results/ # Outputs of the analysis
-
-│ ├── Readme.md
-│ ├── *Results1.pdf 
-  └── *Results2.pdf 
-
-│-- report/ # Final written report
-└── Calisthenics_project_report.pdf
+report/ # Final written report
+- Calisthenics_project_report.pdf
 
 
 ## Team Members
