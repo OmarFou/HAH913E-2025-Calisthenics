@@ -18,7 +18,7 @@ The work demonstrates the complete physical activity analysis pipeline:
 
 ## Project Structure
 
-project/
+HAH913E-2025-AccelCalisthenics/
 
 │-- README.md # Project overview (this file)
 
@@ -32,23 +32,24 @@ project/
 
 │ ├── pullups_dips.ipynb
 
-│ └── pushups_bicepsCurls.ipynb
+│ └── pushups.ipynb
 │
+
 │-- data/ # data csv files used by the demo
 
 │ ├── readme.md
-
 │ └── *.csv
 │
+
 │-- results/ # Outputs of the analysis
 
 │ ├── Readme.md
+│ ├── *Results1.pdf 
+  └── *Results2.pdf 
 
-│ └── *.pdf / figures
-│
-└── report/ # Final written report
+│-- report/ # Final written report
+└── Calisthenics_project_report.pdf
 
-└── project_report.pdf
 
 ## Team Members
 
